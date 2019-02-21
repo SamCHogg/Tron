@@ -1,5 +1,5 @@
 # Tron
-Tron for CS118 Robot Maze. This was a created for fun for the bonus challenge.
+The game Tron made inside the CS118 Robot Maze. This was a created for fun for the bonus challenge in my first year of university. It's pretty fun to play, but code wise is pretty bad.
 
 I believe this only works on Windows because of the weird stuff I did to get colours working.
 
