@@ -14,4 +14,4 @@ I believe this only works on Windows because of the weird stuff I did to get col
 
 This has only been uploaded as a reference and for playing with. There is no guarentee this works.
 
-This should **not** be submitted as your own work. Doing so is plagarism and would risk being suspended from your course.
+This should **not** be submitted as your own work for university coursework.
