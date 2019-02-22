@@ -12,6 +12,6 @@ I believe this only works on Windows because of the weird stuff I did to get col
 ## Disclaimer
 `maze-environment.jar` (also known as the Robot Maze) is property of The University of Warwick Computer Science Department, it has only been included in this project because it is necessary for its operation.
 
-This has only been uploaded as a reference and for playing with. There is no guarentee this works.
+This has only been uploaded as a reference and to playing with. There is no guarentee this works.
 
 This should **not** be submitted as your own work for university coursework.
